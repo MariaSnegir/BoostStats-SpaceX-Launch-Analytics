@@ -19,5 +19,5 @@
   + Scikit-learn (машинное обучение)
   + Matplotlib & Seaborn (EDA)
 
-**Установите зависимости:**
+**Установите зависимости:** \
  ```pip install dash plotly pandas```
